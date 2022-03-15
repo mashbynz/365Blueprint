@@ -33,5 +33,3 @@ exclude:
 # Plugin settings
 plugins:
    - jekyll-last-modified-at
-
-theme: jekyll-theme-slate
